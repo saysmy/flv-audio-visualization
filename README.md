@@ -13,7 +13,7 @@ Flv audio visualization, parse AAC and use audioContext to realize visualization
 
 2. main.js为ES流分段播放实现（推荐方式），可以实现音频的连续播放，卡顿感几乎没有，有轻微的噪音。
 
-#### 具体思路和讲解见我的博客：[FLV音频的可视化实现](https://www.cnblogs.com/saysmy/p/10716886.html)
+#### 具体思路和讲解见我的博客：[FLV提取AAC音频单独播放并实现可视化的频谱](https://www.cnblogs.com/saysmy/p/10716886.html)
 
 #### 有任何建议和意见欢迎提issue和PR一起讨论改进
 

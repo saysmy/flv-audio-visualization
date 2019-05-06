@@ -16,3 +16,5 @@ Flv audio visualization, parse AAC and use audioContext to realize visualization
 #### 具体思路和讲解见我的博客：[FLV音频的可视化实现](https://www.cnblogs.com/saysmy/p/10716886.html)
 
 #### 有任何建议和意见欢迎提issue和PR一起讨论改进
+
+本文flv-demuxer.js参考[flv2aac](https://github.com/Xmader/flv2aac)移除了视频相关的处理逻辑，只保留了[bilibili源码](https://github.com/bilibili/flv.js)的音频处理部分

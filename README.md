@@ -1,7 +1,7 @@
 # flv-audio-visualization
 Flv audio visualization, parse AAC and use audioContext to realize visualization.
 
-## Flv 音频可视化实现
+## Flv 直播流音频可视化实现
 
 1.  利用fetch的reader渐进读取音视频的流内容
 2.  借助flv-demuxer.js解析flv音频获取AAC ES流和ADTS头部信息
